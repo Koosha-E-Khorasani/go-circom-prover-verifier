@@ -26,7 +26,7 @@ type PkString struct {
 	C          [][]string          `json:"C"`
 	NVars      int                 `json:"nVars"`
 	NPublic    int                 `json:"nPublic"`
-	VkAlpha1   []string            `json:"vk_alfa_1"`
+	VkAlpha1   []string            `json:"vk_alpha_1"`
 	VkDelta1   []string            `json:"vk_delta_1"`
 	VkBeta1    []string            `json:"vk_beta_1"`
 	VkBeta2    [][]string          `json:"vk_beta_2"`
